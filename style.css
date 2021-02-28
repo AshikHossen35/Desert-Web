@@ -1,0 +1,76 @@
+.banner{
+    background: url(img/background-img.jpg) no-repeat bottom / cover; 
+    min-height: 500px;
+    
+}
+nav ul li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    transition: .2s;
+}
+nav ul li a:hover{
+    transform: skew(360deg);
+    color: #333;
+}
+.right-side-row{
+    background: url(img/cycle-img1.jpg) no-repeat top center / cover;  
+}
+
+.vigate-bg{
+    background: url(img/full-cycle.jpg) no-repeat bottom center / cover;
+    padding: 200px;
+}
+.bottom-bg-here {
+	background: url(img/another-sit.jpg) no-repeat top center / cover;
+	height: 36%;
+	margin-top: 81px;
+}
+
+.hulot-bg1{
+    background: url(img/part1.jpg) no-repeat top center / cover;
+    
+}
+.hulot-bg2{
+    background: url(img/full.jpg) no-repeat top center / cover;
+
+}
+
+.akta-div{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.aije {
+	background: url(img/img-gallary6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 97%;
+}
+.aije a{
+    font-family: tahoma;
+    background: #2196f2;
+    color:#ddd;
+    display: inline-block;
+    margin-top: 20px;
+    transition: .3s;
+}
+.aije a:hover{
+    color: #fff !important;
+    background: #0c5f9e;
+    transform: scaleX(1.2);
+}
+
+.nicher-row{
+    margin: 0;
+    height: 20% !important;
+}
+
+.social-icon-here a i{
+    border: 1px solid transparent;
+    padding: 5px;
+    border-radius: 5px;
+}
+.social-icon-here a i:hover{
+    border: 1px solid #333;
+    
+}
+
